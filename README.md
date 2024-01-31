@@ -1,4 +1,4 @@
-#Agenda
+# Agenda
 
 This is a project about researching the EEG and analysing the data from tests.
 
