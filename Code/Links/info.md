@@ -1,6 +1,6 @@
-# EEG
+# Info
 
-This is a project about researching the EEG and analysing the data from tests.
+## How to graph with Java Script
 
 We will be using a plugin called chart.js.
 The documentation can be found
