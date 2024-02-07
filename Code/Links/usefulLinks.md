@@ -8,5 +8,8 @@
 ### Introduction to data analysis from EEGs
 - https://backyardbrains.com/products/files/Extracting_Frequency_Bands_EEG.pdf
 
-  ### uses of fast fourier transform in eegs
+### uses of fast fourier transform in eegs
 https://biology.stackexchange.com/questions/44955/why-is-fast-fourier-transform-applied-to-raw-eeg-data
+
+### help to plot the graphs
+https://mathnotepad.com/
