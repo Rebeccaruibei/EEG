@@ -13,3 +13,7 @@ https://biology.stackexchange.com/questions/44955/why-is-fast-fourier-transform-
 
 ### help to plot the graphs
 https://mathnotepad.com/
+
+### Lecture Notes on Fourier Transforms
+
+https://dec41.user.srcf.net/notes/IB_M/methods.pdf
