@@ -20,6 +20,6 @@ https://dec41.user.srcf.net/notes/IB_M/methods.pdf
 ### Methods of EEG Measurement
 http://www.edumed.org.br/cursos/neurociencia/MethodsEEGMeasurement.pdf
 
-###Building an EEG
+### Building an EEG
 https://openeeg.sourceforge.net/doc/hw/
 https://www.instructables.com/DIY-EEG-and-ECG-Circuit/
