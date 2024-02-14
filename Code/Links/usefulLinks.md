@@ -15,5 +15,11 @@ https://biology.stackexchange.com/questions/44955/why-is-fast-fourier-transform-
 https://mathnotepad.com/
 
 ### Lecture Notes on Fourier Transforms
-
 https://dec41.user.srcf.net/notes/IB_M/methods.pdf
+
+### Methods of EEG Measurement
+http://www.edumed.org.br/cursos/neurociencia/MethodsEEGMeasurement.pdf
+
+###Building an EEG
+https://openeeg.sourceforge.net/doc/hw/
+https://www.instructables.com/DIY-EEG-and-ECG-Circuit/
