@@ -23,3 +23,6 @@ http://www.edumed.org.br/cursos/neurociencia/MethodsEEGMeasurement.pdf
 ### Building an EEG
 https://openeeg.sourceforge.net/doc/hw/
 https://www.instructables.com/DIY-EEG-and-ECG-Circuit/
+
+### How EEG works
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d0e3a5e418f4ba8ff3ba117d45f9cc6b1d89ee7d
