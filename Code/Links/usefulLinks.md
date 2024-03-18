@@ -29,3 +29,6 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d0e3a5e418f4ba8ff
 
 ### EEG waves and Brain structure
 https://www.sciencedirect.com/science/article/pii/S1877705812022114
+
+### EEG Waves
+https://www.sciencedirect.com/science/article/abs/pii/S0167876006002157
