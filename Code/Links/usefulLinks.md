@@ -26,3 +26,6 @@ https://www.instructables.com/DIY-EEG-and-ECG-Circuit/
 
 ### How EEG works
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d0e3a5e418f4ba8ff3ba117d45f9cc6b1d89ee7d
+
+### EEG waves and Brain structure
+https://www.sciencedirect.com/science/article/pii/S1877705812022114
