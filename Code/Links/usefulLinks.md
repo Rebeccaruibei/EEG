@@ -35,3 +35,6 @@ https://www.sciencedirect.com/science/article/pii/S1877705812022114
 
 ### EEG Waves
 https://www.sciencedirect.com/science/article/abs/pii/S0167876006002157
+
+### Maybe some useful brain thing?
+https://journals.physiology.org/doi/prev/20110413-aop/pdf/10.1152/jn.00327.2010
