@@ -40,4 +40,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0167876006002157
 https://journals.physiology.org/doi/prev/20110413-aop/pdf/10.1152/jn.00327.2010
 
 ### Brain Wave Equations
-https://d1wqtxts1xzle7.cloudfront.net/75921114/0025-5564_2874_2990020-020211207-18624-1rpp03a-libre.pdf?1638952831=&response-content-disposition=inline%3B+filename%3DThe_brain_wave_equation_a_model_for_the.pdf&Expires=1710939341&Signature=hNy8HQEWYXGhejrzrYW9fMBLSMpXb-X7OKbVWfkHjoeTkfChLAknBj05DzxmUZy0V-W6Kh6x3hvRgm1pcAKjMtO3yB6G3jHU0Qt8Wgxok~bGOf3IUpSdhU4GrmzrWZ4qoKmheS9IRacWet-guPG7DPgC0QfU9Uoam1gcgs2VQcgtDyUdB748DA50q3BF8yHF1PMXwrDE2YuRMMBBRf67ufPcDa1EX-aOQwliTJbG84T0F7Ox6qm6y7~pKHMwrGv4Cl~dehu~togwd5142jRCCgArrgcYKrVaPpoiXd3Q5yksKffODxt~UsqSpx3Z1IrmLvXg9hYuj1~YTydBBjVozQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+https://rb.gy/nwqzv0
+
+### 
+https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft
