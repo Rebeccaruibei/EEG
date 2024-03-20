@@ -44,3 +44,6 @@ https://journals.physiology.org/doi/prev/20110413-aop/pdf/10.1152/jn.00327.2010
 
 ### Fast Fourier Transform
 https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft
+
+### Gamma Oscillations
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4049541/
